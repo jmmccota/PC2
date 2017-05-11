@@ -1,0 +1,1 @@
+Os metodos carregar(https://github.com/jmmccota/PC2/blob/master/LocadoraLocal/Main.cpp#L95) e salvar(https://github.com/jmmccota/PC2/blob/master/LocadoraLocal/Main.cpp#L35) poderiam ter sido colocados dentro do construtor e destrutor do sistema.
